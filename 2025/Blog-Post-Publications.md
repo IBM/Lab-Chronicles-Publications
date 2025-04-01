@@ -7,5 +7,5 @@
 | 3 | Q1 | Db2 Monitoring | An Introduction to db2mon | Kostas Rakopoulos | IBM Development | https://community.ibm.com/community/user/blogs/kostas-rakopoulos/2025/03/25/db2mon-intro | 3/17/2025 |
 | 4 | Q1 | AI | AI Vectors and Similarity Search - A Gentle Introduction | Shaikh Quader | IBM Development | https://community.ibm.com/community/user/blogs/shaikh-quader/2025/03/19/vectors-intro | 3/24/2025 |
 | 5 | Q1 | pureScale | pureScale with Pacemaker - Chapter 2: Have we reached quorum? |  Justina Srebrnjak | IBM Development | https://community.ibm.com/community/user/blogs/justina-srebrnjak/2025/03/28/purescale-with-pacemaker-chapter-2-have-we-reached | 3/28/2025 |
-| 6 | Q1 | Encryption / HADR | Encrypting a Db2 Database with Minimal Downtime using HADR |  Thomas Drescher | IBM Development | coming soon | 3/31/2025 |
-| 7 | Q1 | pureScale | Online Index Reorg in pureScale |  Zach Hoggard | IBM Development | coming soon | 3/31/2025 |
+| 6 | Q1 | Encryption / HADR | Encrypting a Db2 Database with Minimal Downtime using HADR |  Thomas Drescher | IBM Development | https://community.ibm.com/community/user/blogs/thomas-drescher/2025/03/31/encrypting-a-db2-database-with-minimal-downtime-us | 3/31/2025 |
+| 7 | Q1 | pureScale | Online Index Reorg in pureScale |  Zach Hoggard, Chris Stojanovski | IBM Development | https://community.ibm.com/community/user/blogs/chris-stojanovski/2025/03/31/db2-v12110-making-reorg-rebuild-better-for-your-bu | 3/31/2025 |
