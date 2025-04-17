@@ -9,7 +9,5 @@
 | 5 | Q1 | pureScale | pureScale with Pacemaker - Chapter 2: Have we reached quorum? |  Justina Srebrnjak | IBM Development | https://community.ibm.com/community/user/blogs/justina-srebrnjak/2025/03/28/purescale-with-pacemaker-chapter-2-have-we-reached | 3/28/2025 |
 | 6 | Q1 | Encryption / HADR | Encrypting a Db2 Database with Minimal Downtime using HADR |  Thomas Drescher | IBM Development | https://community.ibm.com/community/user/blogs/thomas-drescher/2025/03/31/encrypting-a-db2-database-with-minimal-downtime-us | 3/31/2025 |
 | 7 | Q1 | pureScale | Online Index Reorg in pureScale |  Zach Hoggard, Chris Stojanovski | IBM Development | https://community.ibm.com/community/user/blogs/chris-stojanovski/2025/03/31/db2-v12110-making-reorg-rebuild-better-for-your-bu | 3/31/2025 |
-
-| No | Quarter | Category | Title | Owner/Co-Author | Author Category | Link | Publication Date |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 8 | Q2 | Db2 | UCA Collations in Db2 12.1: Usage and Recommendations |  Anju Kaushik, Michael Snowbell, Ian Finlay | IBM Development | coming soon | 4/17/2025 |
+| 8 | Q2 | Db2 UCA Collations | UCA Collations in Db2 12.1: Usage and Recommendations |  Anju Kaushik, Michael Snowbell, Ian Finlay | IBM Development | coming soon | 4/17/2025 |
+| 9 | Q2 | Db2 AWM| The Db2 Adaptive Workload Manager Part 1: Stability out of the Box |  Scott Walkty | IBM Development | coming soon | 4/17/2025 |
