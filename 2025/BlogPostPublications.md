@@ -30,7 +30,8 @@
 | 19 | Q2 | Db2 Warehouse Solutions | IBM’s Power10 Private Cloud Rack for Db2 Warehouse Solution – Chapter 4: Enabling Q Replication |  KAUSTUBH-KASH SABNIS | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/jana-wong/2025/05/28/ibms-power10-private-cloud-rack-for-db2-warehouse) | 5/29/2025 |
 | 20 | Q2 | Db2 Bridge | IBM Db2 Bridge: Accelerating Enterprise Data Migration to Power10 Cloud Rack | Sairaman K | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/sairaman-k/2025/06/03/ibm-db2-bridge-accelerating-enterprise-data-migrat) | 6/05/2025 |
 | 21 | Q2 | Db2 | An insight on Db2 LUW Wait Times for Db2 Performance Analysis |  C Raghavendra | IBM Development | under IDUG Review | TBD |
-| 22 | Q2 | Db2 Warehouse | DSP Db2wh Database Point of Failure Restore Strategy, (Backup and Restore) |  Greg Stager | IBM Development | under internal Review | TBD |
+| 22 | Q2 | Db2 Security | Db2 V12, Raising the Security Bar |  Greg Stager | IBM Development | under internal Review | TBD |
+| 23 | Q2 | Db2/Iceberg/Data Lake | Db2 Iceberg Time Travel Queries | Cameron van Ravens | IBM Development | under internal Review | TBD |
 
 
 ## Other External Blogs highlighting HDM Work
