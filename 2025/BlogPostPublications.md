@@ -4,7 +4,7 @@
 
 | No | Quarter | Category | Title | Owner/Co-Author | Author Category | Link | Publication Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Q1 | Db2/Iceberg/Data Lake | Tip of the (Db2) Iceberg | Liam Finnie | IBM Development |  [Blog](https://community.ibm.com/community/user/datamanagement/blogs/james-liam-finnie/2025/02/20/tip-of-the-db2-iceberg) | 2/19/2025 |
+| 1 | Q1 | Db2/Iceberg/Data Lake | Tip of the (Db2) Iceberg | Liam Finnie | IBM Development |  [Blog](https://community.ibm.com/community/user/blogs/james-liam-finnie/2025/02/20/tip-of-the-db2-iceberg) | 2/19/2025 |
 | 2 | Q1 | Db2 Warehouse Solutions | Introducing IBM's Power10 Private Cloud Rack for Db2 Warehouse Solutions | Jana Wong, John Bell, Aslam Nomani | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/jana-wong/2025/03/04/introducing-ibms-p10-pcr-for-db2wh) | 3/5/2025 |
 | 3 | Q1 | Db2 Monitoring | An Introduction to db2mon | Kostas Rakopoulos | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/kostas-rakopoulos/2025/03/25/db2mon-intro) | 3/17/2025 |
 | 4 | Q1 | AI | AI Vectors and Similarity Search - A Gentle Introduction | Shaikh Quader | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/shaikh-quader/2025/03/19/vectors-intro) | 3/24/2025 |
@@ -28,9 +28,9 @@
 | 17 | Q2 | Db2 Warehouse Solutions | IBM’s Power10 Private Cloud Rack for Db2 Warehouse – Chapter 3: Step-by-Step Guide to Engage IBM Support |  Sachin Jain, Jana Wong | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/jana-wong/2025/05/22/ibms-power-10-private-cloud-rack-for-db2-warehouse) | 5/22/2025 |
 | 18 | Q2 | Db2 | Understanding pureScale: A Practical Guide to Adoption – Part 1 |  Christian Garcia-Arellano, Toby Haynes | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/christian-garcia-arellano/2025/05/23/purescale-practical-guide-for-adoption-ch1) | 5/23/2025 |
 | 19 | Q2 | Db2 Warehouse Solutions | IBM’s Power10 Private Cloud Rack for Db2 Warehouse Solution – Chapter 4: Enabling Q Replication |  KAUSTUBH-KASH SABNIS | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/jana-wong/2025/05/28/ibms-power10-private-cloud-rack-for-db2-warehouse) | 5/29/2025 |
-| 20 | Q2 | Db2 Bridge | IBM Db2 Bridge: Accelerating Enterprise Data Migration to Power10 Cloud Rack | Sairaman K | IBM Development | Internal Draft completed | TBD |
-| 21 | Q2 | Db2 | An insight on Db2 LUW Wait Times for Db2 Performance Analysis |  C Raghavendra | IBM Development | rework need after IDUG Review | TBD |
-
+| 20 | Q2 | Db2 Bridge | IBM Db2 Bridge: Accelerating Enterprise Data Migration to Power10 Cloud Rack | Sairaman K | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/sairaman-k/2025/06/03/ibm-db2-bridge-accelerating-enterprise-data-migrat) | 6/05/2025 |
+| 21 | Q2 | Db2 | An insight on Db2 LUW Wait Times for Db2 Performance Analysis |  C Raghavendra | IBM Development | under IDUG Review | TBD |
+| 22 | Q2 | Db2 Warehouse | DSP Db2wh Database Point of Failure Restore Strategy, (Backup and Restore) |  Greg Stager | IBM Development | under internal Review | TBD |
 
 
 ## Other External Blogs highlighting HDM Work
