@@ -46,7 +46,7 @@
 | 28 | Q3 | Db2 | Vector Indexing: A Journey into Information Retrieval at Scale [Part 1] | Nithin Sai K J | IBM Development| [Blog](https://community.ibm.com/community/user/blogs/nithin-sai-k-j/2025/08/20/vector-indexing-a-journey-part-1) | 8/20/2025 | |
 | 29 | Q3 | Db2 | The Next Horizon for Db2: Redefining Databases with Agentic Intelligence | Ashok Kumar, Krishna Guntuka, David Kalmuk, Satya Krishnaswamy| IBM Development | Placed on hold | 8/21/2025 | |
 | 30 | Q3 | Db2Wh Power PCR | IBM’s Power Private Cloud Rack for Db2 Warehouse Solution – Chapter 5: Backup & Restore | John Bell, Jana Wong, Peter Kokosielis | IBM Development | [Blog](https://community.ibm.com/community/user/blogs/jana-wong/2025/08/26/ibms-power-private-cloud-rack-for-db2-warehouse-so) | 8/26/2025 | |
-| 31 | Q3 | Db2Wh Power PCR | IBM’s Power10 Private Cloud Rack for Db2 Warehouse Solution – Chapter 6: High Availability | Muhammed Hisham P, Aruna De Silva | IBM Development  | Under IDUG Review | TBD | |
+| 31 | Q3 | Db2Wh Power PCR | IBM’s Power10 Private Cloud Rack for Db2 Warehouse Solution – Chapter 6: High Availability | Muhammed Hisham P, Aruna De Silva | IBM Development  | [Blog](https://community.ibm.com/community/user/blogs/muhammed-hisham-p/2025/09/09/ibms-power10-private-cloud-rack-for-db2-warehouse) | 9/9/2025 | |
 | 32 | Q3 | Db2Wh Power PCR | Introducing IBM Power Private Cloud Rack for Db2 on Red Hat Enterprise Linux | Aslam Nomani , Kostas Rakopoulos , Bryan Tang | IBM Development  | [Blog](https://community.ibm.com/community/user/blogs/bryan-tang/2025/09/05/introducing-ibm-power-private-cloud-rack-for-db2-o) | 9/5/2025 | |
-
+| 33 | Q3 | Db2 AI Optimizer | Db2 AI Query Optimizer: Expanded Predicate Support and Improved Model Training | Liam Finnie | IBM Development  | [Blog](https://community.ibm.com/community/user/blogs/james-liam-finnie/2025/09/20/db2-ai-query-optimizer-improved-model-training) | 9/20/2025 | |
 
